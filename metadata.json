@@ -1,0 +1,6 @@
+{
+  "name": "CampusFix — Campus Problem Solver",
+  "description": "Report campus problems and get realistic, prioritized student actions and relevant campus authority recommendations powered by AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
